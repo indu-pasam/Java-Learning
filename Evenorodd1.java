@@ -7,11 +7,11 @@ public class Evenorodd1 {
         num=sc.nextInt();
          if(num%2==0)
          {
-            System.out.println("even number");
+            System.out.println("it is even number");
          }
          else
          {
-            System.out.println("odd number");
+            System.out.println("it is odd number");
          }
          sc.close();
     }
