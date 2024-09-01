@@ -6,7 +6,7 @@ class Strings1 {
         a=sc.nextLine();
         System.out.println(a);
         //System.out.println(a);
-        String b=new String("Welcome");//it is stored in heap memory
+        String b=new String("Hello Welcome");//it is stored in heap memory
         System.out.println(b);
         System.out.println(a==b);//== used for comparing the addresses only
         System.out.println(a=b);
