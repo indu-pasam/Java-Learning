@@ -6,7 +6,7 @@ class Methods {
        greetings();
     }
     public  void Hello(){//non-static methods thats we created a objects
-        System.out.println("Hello Hii How r u");
+        System.out.println("Hello Hii");
     }
     public static void greetings(){
         System.out.println("I am fine");
