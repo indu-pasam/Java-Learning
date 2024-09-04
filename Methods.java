@@ -9,7 +9,7 @@ class Methods {
         System.out.println("Hello Hii");
     }
     public static void greetings(){
-        System.out.println("I am fine");
+        System.out.println("welcome");
     }
 
 }
